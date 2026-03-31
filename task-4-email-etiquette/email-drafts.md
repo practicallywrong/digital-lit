@@ -58,6 +58,6 @@ Yatharth Rathi
 
 B.Tech Computer Science (1st Year) – VIT Bhopal University
 
-GitHub: github.com/sudish-666  |  yatharth.25bce11198@vitbhopal.ac.in
+GitHub: github.com/practicallywrong  |  yatharth.25bce11198@vitbhopal.ac.in
 
 Mob: +91-XXXXXXXXXX
